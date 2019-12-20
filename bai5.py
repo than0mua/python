@@ -1,0 +1,1 @@
+a=(input("nhap vao so do la:"))
