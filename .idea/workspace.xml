@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20f26d90-af12-4b17-903e-535bbee63ef3" name="Default Changelist" comment="" />
+    <list default="true" id="20f26d90-af12-4b17-903e-535bbee63ef3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ngay1/bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ngay1/bai8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ngay2/bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ngay2/bai9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ngay3/bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ngay3/bai5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ngay4/bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ngay4/bai5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ngay5_1/bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ngay5_1/bai4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +197,7 @@
       <workItem from="1577525456691" duration="48000" />
       <workItem from="1579253441062" duration="6121000" />
       <workItem from="1580464497030" duration="182000" />
-      <workItem from="1580541511884" duration="242000" />
+      <workItem from="1580541511884" duration="1107000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1576836909652</created>
@@ -276,7 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580541688245</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="bai tap lan cuoi buoi 5">
+      <created>1580541815973</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580541815973</updated>
+    </task>
+    <task id="LOCAL-00014" summary="bai tap lan cuoi buoi 5">
+      <created>1580541880024</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580541880024</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,10 +325,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="456" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579253581312" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1580541684701">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1580541877522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580541684701" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580541877522" />
     <state width="1323" height="170" key="GridCell.Tab.0.bottom" timestamp="1579262601827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -328,10 +349,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580541758568" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1580541703192">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1580541911705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580541703192" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580541911705" />
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1577440444437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
