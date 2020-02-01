@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20f26d90-af12-4b17-903e-535bbee63ef3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/ngay4/bai1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ngay4/bai2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ngay4/bai3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ngay4/bai4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ngay4/bai5.py" afterDir="false" />
-    </list>
+    <list default="true" id="20f26d90-af12-4b17-903e-535bbee63ef3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -196,6 +190,7 @@
       <workItem from="1577525456691" duration="48000" />
       <workItem from="1579253441062" duration="6121000" />
       <workItem from="1580464497030" duration="182000" />
+      <workItem from="1580541511884" duration="242000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1576836909652</created>
@@ -274,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577525272307</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="bai tap lan cuoi buoi 5">
+      <created>1580541688245</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580541688245</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +292,8 @@
     <MESSAGE value="bai tap lan cuoi buoi 1" />
     <MESSAGE value="bai tap lan cuoi buoi 2" />
     <MESSAGE value="bai tap lan cuoi buoi 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai tap lan cuoi buoi 3" />
+    <MESSAGE value="bai tap lan cuoi buoi 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai tap lan cuoi buoi 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579257061065">
@@ -301,10 +304,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="456" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579253581312" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1577525271148">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1580541684701">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577525271148" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580541684701" />
     <state width="1323" height="170" key="GridCell.Tab.0.bottom" timestamp="1579262601827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -321,14 +324,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579262601827" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1577517116718">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1580541758568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577517116718" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577525284384">
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580541758568" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1580541703192">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577525284384" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580541703192" />
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1577440444437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
